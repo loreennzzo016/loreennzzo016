@@ -8,7 +8,7 @@
 
 - 💻 **Amante del Progreso**: Me encanta la sensación de avanzar, resolver problemas complejos y enfrentar desafíos que exigen creatividad y lógica.  
 - 🌱 **Filosofía de Trabajo**: Aprender constantemente, colaborar y mantener un enfoque flexible son los pilares que guían mi trabajo.  
-- 🎯 **Áreas de interés**: Frontend, DevOps, automatización, y diseño de sistemas escalables.  
+- 🎯 **Áreas de interés**: Frontend, DevOps, automatización y diseño de sistemas escalables.  
 - 🧩 **Lo que más disfruto**: Ver cómo cada pieza encaja para crear sistemas funcionales y escalables, con un impacto positivo en los usuarios.
 
 ---
@@ -17,7 +17,7 @@
 
 - **Lenguajes**: JavaScript (mi favorito por su versatilidad), Python, Java.  
 - **Herramientas**: Git, VS Code.  
-- **Bases de Datos**: MySQL
+- **Bases de Datos**: MySQL  
 - **Exploraciones recientes**: Herramientas de IA para automatización y análisis de datos.  
 
 ---
@@ -30,8 +30,8 @@ Me encantaría desarrollar una plataforma interactiva de aprendizaje personaliza
 
 ## 📞 Conecta conmigo
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/lorenzo-p%C3%A9rez-carbonell-817947280/))  
-- 🌐 [Portafolio](porfolio-lorenzo.carrd.co)  
+- 💼 **LinkedIn**:[LinkedIn](https://www.linkedin.com/in/lorenzo-p%C3%A9rez-carbonell-817947280/)  
+- 🌐 **Portafolio**:[Portafolio](https://porfolio-lorenzo.carrd.co)  
 - ✉️ **Email**: [lorenzopc06@gmail.com](mailto:lorenzopc06@gmail.com)  
 
 ---
