@@ -46,8 +46,6 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-    </td>
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=loreennzzo016&theme=dracula&hide_border=true&background=0D1117&stroke=67F9FF&ring=67F9FF&fire=67F9FF&currStreakLabel=67F9FF" height="165" alt="GitHub Streak"/>
     </td>
@@ -62,23 +60,28 @@
 
 Mis proyectos demuestran la aplicación de principios de **Ingeniería de Software** en la práctica.
 
-### Proyecto Seguridad
-<a href="https://github.com/loreennzzo016/proyectoSeguridad">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loreennzzo016&repo=proyectoSeguridad&theme=dracula&bg_color=0D1117&title_color=67F9FF&text_color=FFFFFF" alt="Proyecto Seguridad Pin"/>
-</a>
+# PROYECTOS DESTACADOS: CASOS DE INGENIERÍA
 
-*Implementación de herramientas de **seguridad y análisis de red**.*
+Mis proyectos demuestran la aplicación de principios de **Ingeniería de Software** en la práctica.
+
+## 🔐 Proyecto Seguridad
+[![Ver en GitHub](https://img.shields.io/badge/🔐_Ver_Proyecto_Seguridad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loreennzzo016/proyectoSeguridad)
+
+*Implementación de herramientas de **seguridad y análisis de red**.*  
 
 `Python` • `Ciberseguridad` • `OWASP`
 
-### Proyectos Python
-<a href="https://github.com/loreennzzo016/Proyectos-Python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loreennzzo016&repo=Proyectos-Python&theme=dracula&bg_color=0D1117&title_color=67F9FF&text_color=FFFFFF" alt="Proyectos Python Pin"/>
-</a>
+---
 
-*Desarrollo de **APIs RESTful** y lógica de negocio con Python/Flask.*
+## 🐍 Proyectos Python
+[![Ver en GitHub](https://img.shields.io/badge/🐍_Ver_Proyectos_Python-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loreennzzo016/Proyectos-Python)
+
+*Desarrollo de **APIs RESTful** y lógica de negocio con Python/Flask.*  
 
 `Python` • `Flask` • `APIs` • `Backend`
+
+---
+
 
 ##  GRÁFICO DE CONTRIBUCIONES
 
@@ -151,4 +154,5 @@ Mis proyectos demuestran la aplicación de principios de **Ingeniería de Softwa
 </div>
 
 ---
+
 
