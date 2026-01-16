@@ -17,7 +17,7 @@
 ##  STACK TÉCNICO PRINCIPAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,js,html,css,python,flask,mysql,postgresql,docker,git,linux,vscode,github,bash" alt="Tech Stack" style="width: 100%; max-width: 750px;"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,docker,git,linux,vscode,vue,github" alt="Tech Stack" style="width: 100%; max-width: 750px;"/>
 </p>
 
 ### Frontend & Interfaz
@@ -154,5 +154,6 @@ Mis proyectos demuestran la aplicación de principios de **Ingeniería de Softwa
 </div>
 
 ---
+
 
 
