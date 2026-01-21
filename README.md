@@ -11,7 +11,7 @@ Desarrollador Frontend especializado en JavaScript moderno y Vue.js
 
 ## Tecnologías
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,docker,git,linux,vscode,vue,github,flask" alt="Tech Stack" style="width: 100%; max-width: 700px;"/> 
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,docker,git,linux,vscode,vue,github" alt="Tech Stack" style="width: 100%; max-width: 700px;"/> 
 </p>
 
 **Frontend:** HTML5, CSS3, JavaScript (ES6+), Vue.js 3, Bootstrap  
@@ -22,8 +22,10 @@ Desarrollador Frontend especializado en JavaScript moderno y Vue.js
 ---
 
 ## GitHub Stats
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=loreennzzo016&show_icons=true&theme=default&count_private=true)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=loreennzzo016&layout=compact&langs_count=6)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loreennzzo016&show_icons=true&theme=default&count_private=true" alt="Estadísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loreennzzo016&layout=compact&langs_count=6" alt="Lenguajes más usados" />
+</p>
 
 ---
 
