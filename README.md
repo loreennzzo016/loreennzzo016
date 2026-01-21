@@ -40,19 +40,14 @@
 
 ---
 
-##  MÉTRICAS Y ACTIVIDAD
+### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=loreennzzo016&theme=dracula&hide_border=true&background=0D1117&stroke=67F9FF&ring=67F9FF&fire=67F9FF&currStreakLabel=67F9FF" height="165" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+<a href="https://github.com/Lorenzo-JGV">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lorenzo-JGV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lorenzo-JGV&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 
@@ -154,6 +149,7 @@ Mis proyectos demuestran la aplicación de principios de **Ingeniería de Softwa
 </div>
 
 ---
+
 
 
 
