@@ -15,8 +15,8 @@ Desarrollador Frontend especializado en JavaScript moderno y Vue.js
 ---
 
 ## GitHub Stats
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=loreennzzo016&show_icons=true&theme=default&include_all_commits=true&count_private=true)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=loreennzzo016&layout=compact&langs_count=5&hide=python,java)
+
 
 ---
 
@@ -38,3 +38,4 @@ Desarrollador Frontend especializado en JavaScript moderno y Vue.js
 ---
 
 **Estudiante de DAW | Desarrollador Frontend | Buscando oportunidades para aplicar mis conocimientos**
+
