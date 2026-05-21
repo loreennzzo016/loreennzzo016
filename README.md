@@ -17,6 +17,7 @@
 <div align="center">
 
 ## ━━━━━━━━━━━━ ABOUT ━━━━━━━━━━━━
+
 </div>
 
 Full-Stack Developer focused on building **scalable, maintainable and production-ready web applications**.
@@ -24,12 +25,12 @@ Full-Stack Developer focused on building **scalable, maintainable and production
 I specialize in designing systems where backend architecture, frontend structure and data modeling work together in a clean and scalable way.
 
 My focus is:
+
 - scalable backend systems (Spring Boot, Java)
 - modern frontend architecture (Vue.js + TypeScript)
 - REST API design and modular systems
 - clean and maintainable codebases
 - Docker-based development environments
-
 
 ---
 
@@ -38,7 +39,6 @@ My focus is:
 ## ━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━
 
 </div>
-
 
 <div align="center">
 
@@ -58,49 +58,48 @@ My focus is:
 
 </div>
 
-### PROJECT MANAGER PLATFORM
+### BOOKIFY (TFG)
 
-Full-stack collaborative project management system
+Comprehensive reservation management system with modular architecture.
+
+🔗 https://github.com/loreennzzo016/Bookify
+
+- Spring Boot & Vue.js integration
+- Complex transactional data modeling
+- Professional authentication patterns
+- Maintainable system documentation
+
+**Stack:** Spring Boot · Vue.js · PostgreSQL · Docker
+
+---
+
+### PROJECT MANAGER
+
+Full-stack collaborative platform for task and workflow management.
 
 🔗 https://github.com/loreennzzo016/Project-Manager
 
-- JWT authentication system  
-- Real-time WebSockets communication  
-- Modular Spring Boot backend  
-- Vue.js component-based frontend  
-- PostgreSQL + Docker setup  
+- Robust JWT-based authentication
+- Real-time communication via WebSockets
+- Decoupled frontend/backend architecture
+- Docker-based development environment
 
-**Stack:** Spring Boot · Vue.js · PostgreSQL · Docker · WebSockets · JWT  
-
----
-
-### COLOR TASK
-
-Productivity-focused task management system
-
-🔗 https://github.com/loreennzzo016/ColorTask
-
-- Reactive Vue.js frontend  
-- Component-driven architecture  
-- Color-based workflow system  
-- Scalable backend structure  
-
-**Stack:** Vue.js · TypeScript · Spring Boot · TailwindCSS · PostgreSQL  
+**Stack:** Spring Boot · Vue.js · PostgreSQL · Docker · WebSockets · JWT
 
 ---
 
-### TASK SYSTEM
+### EVENT FLOW
 
-Lightweight internal management tool
+Smart automation agent for personal productivity synchronization.
 
-🔗 https://github.com/loreennzzo016/Task-System
+🔗 https://github.com/loreennzzo016/EventFlow
 
-- PHP backend  
-- Simple CRUD system  
-- MySQL persistence  
-- Internal workflow optimization  
+- Python-based backend automation
+- Logic-driven task scheduling
+- Google Calendar and Gmail API integration
+- Error handling for critical workflows
 
-**Stack:** PHP · MySQL  
+**Stack:** Python · Google APIs
 
 ---
 
